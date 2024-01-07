@@ -92,8 +92,12 @@ margin-top: 50px;
 }
 
 /* Part 3 Start */
+.part_3{
+    display: flex;
+
+}
 .part_3 .part_3_text{
-    margin-left: 100px;
+    margin-left: 50px;
     padding-top: 70px;
 }
 .part_3 .part_3_text .part_3_h1{
@@ -128,3 +132,70 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 }
+.part_3 .part_3_flex_img .part_3_flex1_img{
+width: 250px;
+height:300px;
+margin-top: 80px;
+
+}
+/* Part 3 End */
+
+/* Part 4 Start */
+.part_4{
+    height: 400px;
+    width: 1000px;
+    margin: auto;
+    background-color: #FFE8E8;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+.part_4 .part_4_text{
+    text-align: center;
+    padding-top: 70px;
+
+}
+.part_4 .part_4_text h6{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+
+}
+.part_4 .part_4_text h6 span{
+    color: #F00;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+.part_4 .part_4_btn{
+    text-align: center;
+    margin-top: 48px;
+}
+.part_4 .part_4_btn .part_4_a {
+    border-radius: 8px;
+background: #F00;
+padding: 16px 32px;
+height: 24px;
+width: 103px;
+color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+text-decoration: none;
+}
+/* Part 4 End */
+
+
+/* Part 5 Start */
+

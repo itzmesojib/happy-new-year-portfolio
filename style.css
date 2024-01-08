@@ -164,7 +164,8 @@
     height: 400px;
     width: 1000px;
     margin: auto;
-    background-color: #FFE8E8;
+    /* background-color: #FFE8E8; */
+    background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     margin-top: 100px;
     border-radius: 15px;
 }
